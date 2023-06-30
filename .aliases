@@ -1,0 +1,3 @@
+#here i type aliases
+alias nv="nvim"
+alias ls="ls -la"
